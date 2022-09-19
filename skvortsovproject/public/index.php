@@ -1,4 +1,11 @@
 <?php
+//Проверка XDEBUG 5000
+
+//function recursion(){
+//    recursion();
+//}
+//
+//recursion();
 
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
